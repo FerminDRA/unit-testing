@@ -7,5 +7,5 @@ export function circle(radio:number){
     else {
         res= pi*(radio**2);
     }
-    return 9;
+    return res;
 }
