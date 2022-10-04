@@ -1,5 +1,5 @@
 export function currencies(){
     let array:String[];
-    array=['MXN','RU','AUS']
+    array=['USD','AUD','EUR']
     return array;
 }
