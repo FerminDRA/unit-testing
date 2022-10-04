@@ -1,4 +1,5 @@
 export function greet(name:String){
-    
-    return 'Welcome some';
+    let word:String;
+    word='Welcome '+name;
+    return word;
 }
