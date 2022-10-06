@@ -1,4 +1,4 @@
-export function factorial(n:number){
+export function fact(n:number){
     let res:number;
     if(n==0){
         res=1;
@@ -12,5 +12,5 @@ export function factorial(n:number){
            res=res*i;
         }
     }
-    return 10;
+    return res;
 }
